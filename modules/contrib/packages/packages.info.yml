@@ -1,0 +1,13 @@
+name: Packages
+type: module
+description: 'Allow packages to be toggled and configured per-user.'
+# core: 8.x
+package: Packages
+dependencies:
+  - user
+
+# Information added by Drupal.org packaging script on 2017-04-24
+version: '8.x-1.0'
+core: '8.x'
+project: 'packages'
+datestamp: 1493053746

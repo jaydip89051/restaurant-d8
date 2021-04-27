@@ -1,0 +1,13 @@
+name: 'Packages example: Page'
+type: module
+description: 'An example package that provides a custom page.'
+# core: 8.x
+package: Packages
+dependencies:
+  - packages
+
+# Information added by Drupal.org packaging script on 2017-04-24
+version: '8.x-1.0'
+core: '8.x'
+project: 'packages'
+datestamp: 1493053746
